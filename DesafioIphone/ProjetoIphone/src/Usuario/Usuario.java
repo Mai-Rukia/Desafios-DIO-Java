@@ -22,6 +22,7 @@ public class Usuario {
 		Iphone.musica = sc.nextLine();
 		Iphone.tocar();
 		
+		System.out.println("Escolha uma pagina");
 		Iphone.url = sc.nextLine();
 		Iphone.exibirPagina(Iphone.url);
 		Iphone.adicionarNovaAba();
