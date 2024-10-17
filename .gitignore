@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.metadata/version.ini
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location
+.metadata/version.ini
+ProjetoBootcamp/DesafioBootcampDIO/.classpath
+ProjetoBootcamp/DesafioBootcampDIO/.settings/org.eclipse.core.resources.prefs
+ProjetoBootcamp/DesafioBootcampDIO/.settings/org.eclipse.jdt.core.prefs
+ProjetoBootcamp/DesafioBootcampDIO/src/module-info.java
